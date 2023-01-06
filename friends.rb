@@ -7,4 +7,9 @@ nums.each do |num|
 end
 
 
-    
+ nums.each do |num|
+    if num <= 60
+        puts num
+    end
+end
+   
